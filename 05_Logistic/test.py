@@ -139,3 +139,4 @@ def gradAscent(dataMatIn, classLabels):
 if __name__ == '__main__':
     dataMat, labelMat = loadDataSet()
     print(gradAscent(dataMat, labelMat))
+    #update
