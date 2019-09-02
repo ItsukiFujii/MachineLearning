@@ -12,6 +12,7 @@
 
 import numpy as np
 import matplotlib.pyplot as plt
+from matplotlib.font_manager import FontProperties
 import random
 """
 函数说明:加载数据
